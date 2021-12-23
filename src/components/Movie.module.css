@@ -1,0 +1,65 @@
+
+.movie {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    width: 450px;
+  
+}
+
+.coverImg:hover{
+    transform: scale(1.1);
+
+}
+.coverImg{
+    margin: 50px auto;
+    width: 300px;
+    transition: transform 250ms ease-in;
+}
+
+
+.ratingStar {
+    display: flex;
+    margin: 5px;
+    align-content: center;
+}
+
+.ratingNum{
+    color: white;
+    display: flex;
+    font-size: 20px;
+    line-height: 20px;
+}
+
+.title{
+    color: whitesmoke;
+    text-decoration: none;
+    text-decoration-line : none;
+    font-size: 20px;
+    margin: 5px;
+}
+
+.summary {
+    width: 300px;
+    color: white;
+    margin: 30px;
+}
+
+.movie ul{
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+}
+
+.genres {
+    margin: 15px;
+    color: white;
+    list-style: none;
+    border : 1px solid white;
+    padding : 5px;
+    border-radius: 10px;
+}
