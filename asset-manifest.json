@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/movie-react/static/css/main.11dadeec.css",
-    "main.js": "/movie-react/static/js/main.09bb7529.js",
+    "main.js": "/movie-react/static/js/main.2c696463.js",
     "static/media/FrankRuhlLibre-Regular.ttf": "/movie-react/static/media/FrankRuhlLibre-Regular.43412bd41a1380819c72.ttf",
     "index.html": "/movie-react/index.html",
     "main.11dadeec.css.map": "/movie-react/static/css/main.11dadeec.css.map",
-    "main.09bb7529.js.map": "/movie-react/static/js/main.09bb7529.js.map"
+    "main.2c696463.js.map": "/movie-react/static/js/main.2c696463.js.map"
   },
   "entrypoints": [
     "static/css/main.11dadeec.css",
-    "static/js/main.09bb7529.js"
+    "static/js/main.2c696463.js"
   ]
 }
